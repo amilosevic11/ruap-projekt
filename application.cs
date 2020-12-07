@@ -10,7 +10,8 @@ namespace ConsoleApp_RUAP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Antonija Miloševića uz broj indeksa.");
+            Console.WriteLine("Pozdrav iz aplikacije od Antonija Miloševića.");
+>>>>>>> 1d2e0a7 (commit)
         }
     }
 }
